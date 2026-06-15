@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/embrujo-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Embrujo de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/embrujo-de-amor/) |
+| **Get License** | [Get License For Embrujo de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/embrujo-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras fijo y me quitas la respiración
+> Un embrujo suave, eres mi tentación
+> Bailando lento, tú eres mi perdición
+> Esta noche es tuya, no hay otra opción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
