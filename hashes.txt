@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Embrujo de amor
+
+This log tracks the cryptographic history and versioning for the song **Embrujo de amor** (embrujo-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:24:32.145777 | `v1` | `6044aff98f94665ff9a2fda6f464e661f3e0c986f8c931fbb88cf633321baa81` | `ec258a91fbf4aff3e1bdb3bec609d11ea90264757a6ba6ba34dd0cef93e5e000` | `2026-06-15_embrujo-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
